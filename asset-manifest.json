@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/projectNNN/static/css/main.4a3004f0.css",
-    "main.js": "/projectNNN/static/js/main.ae1769f4.js",
+    "main.js": "/projectNNN/static/js/main.39914163.js",
     "static/js/453.e8b0f461.chunk.js": "/projectNNN/static/js/453.e8b0f461.chunk.js",
     "index.html": "/projectNNN/index.html",
     "main.4a3004f0.css.map": "/projectNNN/static/css/main.4a3004f0.css.map",
-    "main.ae1769f4.js.map": "/projectNNN/static/js/main.ae1769f4.js.map",
+    "main.39914163.js.map": "/projectNNN/static/js/main.39914163.js.map",
     "453.e8b0f461.chunk.js.map": "/projectNNN/static/js/453.e8b0f461.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a3004f0.css",
-    "static/js/main.ae1769f4.js"
+    "static/js/main.39914163.js"
   ]
 }
